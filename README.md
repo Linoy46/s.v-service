@@ -1,2 +1,3 @@
 # s.v-service
-medir la productividad de los empleados
+aplicacion medir la productividad de los empleados
+en python.
